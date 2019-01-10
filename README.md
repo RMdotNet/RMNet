@@ -1,0 +1,2 @@
+# RMNet
+Belajar Nyimpen dulu
